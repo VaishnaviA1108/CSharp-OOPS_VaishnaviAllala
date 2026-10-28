@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritence", "Inheritence\Inheritence.csproj", "{ECD61F06-C955-4843-AA1C-4AC795407E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSLearning", "OOPSLearning\OOPSLearning.csproj", "{96121F2A-24FC-4584-96F7-B1647B84D7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD61F06-C955-4843-AA1C-4AC795407E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD61F06-C955-4843-AA1C-4AC795407E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD61F06-C955-4843-AA1C-4AC795407E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD61F06-C955-4843-AA1C-4AC795407E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96121F2A-24FC-4584-96F7-B1647B84D7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96121F2A-24FC-4584-96F7-B1647B84D7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96121F2A-24FC-4584-96F7-B1647B84D7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96121F2A-24FC-4584-96F7-B1647B84D7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EDDE497-8404-4C65-B575-261D76C7A532}
+	EndGlobalSection
+EndGlobal
